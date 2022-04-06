@@ -59,7 +59,7 @@ header {
     position: absolute;
     left: calc(50% - 12rem);
     margin-top: 8rem;
-    border-radius: 12rem 12rem 12rem 12rem; /*top left, top right, bottom right, bottom left*/
+    border-radius: 12rem 12rem 2rem 2rem; /*top left, top right, bottom right, bottom left*/
     overflow: hidden;
     padding: 0rem 0.5rem 0.5rem 0.5rem;/* top me padding, all three side*/ 
 }

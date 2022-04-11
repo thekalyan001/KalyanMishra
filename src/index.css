@@ -122,17 +122,19 @@ img{
 
 @media screen and (max-width: 1024px){
     header{
-        height: 68vh; /*view port height */
+        height: 40vh; /*view port height */
     }
 }
 
 /*------------media queries(small devices- mobile phones)-------------------*/
 @media screen and (max-width: 600px){
     header{
-     height: 100vh;   
+        height: 55vh;  
     }
     .header__socials, .scroll__down{
         display: none;
     }
 }
+
+
 

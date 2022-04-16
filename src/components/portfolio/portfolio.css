@@ -10,10 +10,11 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    border-color: var(--color-primary-variant);
 }
 
 .portfolio__item:hover{
-    border-color: var(--color-primary-variant);
+    border-color: var(--color-primary);
     background: transparent;
 }
 

@@ -13,7 +13,7 @@ const Header = () => {
         <h5 className="text-light">React Developer</h5>
 
 
-        <CTA/>  {/* two btn download and contact*/}
+      {/* <CTA/>   two btn download and contact*/}
         
          <HeaderSocials/>
 

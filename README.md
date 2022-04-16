@@ -1,5 +1,5 @@
 ## mmm...finding readme? 🙄
-#Portfolio app created by Kalyan Mishra ✔
+# Portfolio app created by Kalyan Mishra ✔
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

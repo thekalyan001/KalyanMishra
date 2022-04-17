@@ -27,27 +27,6 @@ footer a:hover{
      margin: 0 auto 3rem;    
 }
 
-.footer__socials{
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin-bottom: 4rem;
-}
-
-.footer__socials a{
-    background: #08313A;
-    color: var(--color-white);
-    padding: 0.8rem;
-    border-radius: 0.7rem;
-    display: flex;
-    border: 1px solid transparent;
-}
-
-.footer__socials a:hover{
-    background-color: transparent;
-    color: var(--color-bg);
-    border-color: var(--color-bg);
-}
 
 /* footer copyright */
 .footer__copyright{
